@@ -1,0 +1,24 @@
+{
+  "name": "neweslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "lint-fix": "eslint --fix ."
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocarls/neweslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocarls/neweslint/issues"
+  },
+  "homepage": "https://github.com/cocarls/neweslint#readme",
+  "keywords": [],
+  "dependencies": {
+    "eslint": "^8.34.0"
+  }
+}
